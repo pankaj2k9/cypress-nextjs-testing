@@ -1,4 +1,4 @@
-# Popular Concert Venue
+# Next.js app and api testing with Cypress 
 
 ### An app to support the Udemy course [Testing Next.js Apps](https://www.udemy.com/course/nextjs-testing/)
 
